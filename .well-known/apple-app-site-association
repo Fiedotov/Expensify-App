@@ -1,0 +1,82 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": ["368M544MTT.com.chat.expensify.chat"],
+                "components": [
+                    {
+                       "/": "/r/*",
+                       "comment": "Reports"
+                    },
+                    {
+                        "/": "/a/*",
+                        "comment": "Profile Page"
+                    },
+                    {
+                        "/": "/settings/*",
+                        "comment": "Profile and app settings"
+                    },
+                    {
+                        "/": "/details/*",
+                        "comment": "Details of another users"
+                    },
+                    {
+                        "/": "/v/*",
+                        "comment": "Account validation"
+                    },
+                    {
+                        "/": "/bank-account/*",
+                        "comment": "Bank account setup and its steps"
+                    },
+                    {
+                        "/": "/iou/*",
+                        "comment": "I Owe You reports"
+                    },
+                    {
+                        "/": "/request/*",
+                        "comment": "Money request"
+                    },
+                    {
+                        "/": "/enable-payments/*",
+                        "comment": "Payments setup"
+                    },
+                    {
+                        "/": "/partners/plaid/oauth_ios",
+                        "comment": "Plaid setup"
+                    },
+                    {
+                        "/": "/statements/*",
+                        "comment": "Wallet statements"
+                    },
+                    {
+                        "/": "/concierge/*",
+                        "comment": "Concierge"
+                    },
+                    {
+                        "/": "/split/*",
+                        "comment": "Split Bill"
+                    },
+                    {
+                        "/": "/request/*",
+                        "comment": "Request Money"
+                    },
+                    {
+                        "/": "/new/*",
+                        "comment": "New Chat"
+                    },
+                    {
+                        "/": "/workspace/*",
+                        "comment": "Workspace Details"
+                    },
+                    {
+                        "/": "/teachersunite/*",
+                        "comment": "Teachers Unite!"
+                    }
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": ["368M544MTT.com.chat.expensify.chat"]
+    }
+}
